@@ -55,7 +55,7 @@ raiz, iteracoes = bissecao(func, a=2, b=3, tol=1e-6, maxiter=100)
 
 ## 📊 Exemplo de Saída
 ```python
-Raiz encontrada: 2.5468183 em 20 iterações.
+A raiz é 2.5468183 e o número de iterações foi 20.
 ```
 
 ---
